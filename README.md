@@ -33,7 +33,7 @@ node on mises mainnet
 ### Install otomatis
 
 ```
-wget -O mises.sh https://raw.githubusercontent.com/Whalealert/mises-mainnet/main/mises.sh && chmod +x mises.sh && ./mises.sh```
+wget -O mises.sh https://raw.githubusercontent.com/Whalealert/mises-mainnet/main/mises.sh && chmod +x mises.sh && ./mises.sh
 ```
 
 ### Load variable ke system
